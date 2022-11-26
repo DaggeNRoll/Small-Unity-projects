@@ -1,0 +1,11 @@
+Model Information:
+* title:	Obi-wan
+* source:	https://sketchfab.com/3d-models/obi-wan-36261cd23cca477dac9f9deec09e3c6b
+* author:	Ima Gun Di (https://sketchfab.com/imagandaiii)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Obi-wan" (https://sketchfab.com/3d-models/obi-wan-36261cd23cca477dac9f9deec09e3c6b) by Ima Gun Di (https://sketchfab.com/imagandaiii) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
